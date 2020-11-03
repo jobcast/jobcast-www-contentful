@@ -1,0 +1,20 @@
+{
+  "name": "convert-html-to-contentful-rich-text",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "contentful": "^7.14.8",
+    "contentful-html-rich-text-converter": "^1.0.9",
+    "contentful-management": "^6.1.2",
+    "dotenv": "^8.2.0",
+    "mssql": "^6.2.3"
+  }
+}
