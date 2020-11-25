@@ -1,5 +1,5 @@
 # Jobcast Contentful Script for www
-A library of scripts that were used to migrate blog posts from Wordpress to Contentful.
+A library of scripts that were used to migrate blog posts from Wordpress to Contentful. These scripts are also helpful to make requests to the Contentful Management API and Contentful Delivery API using their JavaScript SDK.
 
 ## Setup
 * Copy `.env.sample` and name it `.env`
